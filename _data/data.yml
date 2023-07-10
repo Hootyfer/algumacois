@@ -6,10 +6,10 @@ fork: true
 contact:
   email: rafaelly2856@gmail.com
   github: hootyfer
-  linkedin: xxxxxxxxx
+  linkedin: 
   phone: 98856-9840
-  gitlab: xxxxxxxxxxx
-  twitter: xxxxxxxxxxx
+  gitlab: 
+  twitter: 
 
 languages:
   - idiom: English
@@ -21,9 +21,9 @@ education:
     time: 2023-2027
     university: IFRN
 
-  - degree: xxxxxxxxxxxxxxxxxxxxxx
-    time: xxxxxxxxxxxxxxx
-    university: xxxxxxxxxxxxxxxxxxxx
+  - degree: 
+    time:
+    university:
 
 skills:
   - category: Backend
@@ -47,10 +47,7 @@ experience:
   - role: NONE
     time: 
     company:
-    details: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  
+    details: 
   - role: NONE
     time: 
     company: 
